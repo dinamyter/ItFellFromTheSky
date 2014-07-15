@@ -1,0 +1,15 @@
+itemGroup.itfellfromthesky=Caiu do céu
+tile.compactPorkchop.name=Bacon compacto cru
+itfellfromthesky.desc_compactPorkchop1=Coloque e clique com o botão direito com uma estrela do nether
+itfellfromthesky.desc_compactPorkchop2=... Ou desfazê-lo.
+itfellfromthesky.desc_compactPorkchop3=Eu sou uma dica
+itfellfromthesky.desc_compactPorkchop4=eu não sou policial.
+itfellfromthesky.hailPigzilla.hail=saúdem
+itfellfromthesky.hailPigzilla.hydra=Hidra
+itfellfromthesky.hailPigzilla.pigzilla= Porcozilla
+itfellfromthesky.hailPigzilla.location=Ele está em
+itfellfromthesky.summonRequiresOp=Você Precisa de op para invocar o porcozilla
+itfellfromthesky.config.cat.gameplay.name=Jogabilidade
+itfellfromthesky.config.cat.gameplay.comment=Essas opções afetam a jogabilidade do mod.
+itfellfromthesky.config.prop.summonPigzillaNeedsOp.name=Invocar o porcozilla precisa de op.
+itfellfromthesky.config.prop.summonPigzillaNeedsOp.comment=Você requer op para invocar o porcozilla?
